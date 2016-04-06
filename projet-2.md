@@ -15,9 +15,12 @@ Votre mission si vous l'acceptez (vous n'avez pas vraiment le choix enfait) est 
 ##  Règles:
 + Votre application devra être *reponsive* (donc s'adapter à toutes les résolutions)
 + celui-ci aura 15 photos
-+ 
-+ dans le cas d'une bonne réponse (la case devient verte).
-+ Dans le cas ou nous revenons sur une question précedante et que nous avions validé une réponse alors celle-ci est toujours ( soit verte, soit rouge)
++ la possibilité de click pour voir le profil (une modal)
++ la photo du propriétaire doit être ronde. 
++ quand on click sur une photo :
+	+ accès à la photo et les commentaires
++ on peut `liker`une photo.
++ on peut laisser des commentaires.
 + vous pouvez allez plus loins si vous le souhaitez.
 + Il n'y aura qu'__un dépôt git__
 
