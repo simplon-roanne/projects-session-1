@@ -1,10 +1,7 @@
 #### Projet-2 {Instagram-like}
 ===
 Votre mission si vous l'acceptez (vous n'avez pas vraiment le choix enfait) est de re-créer l'appplication instagram ( le plus fidèlement possible):
-
 ![Design](./img/instagram.png)
-
-
 # Instructions:
 + vous devrez faire le HTML & le CSS
 + ainsi que le JS
