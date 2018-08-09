@@ -13,7 +13,7 @@ je vous implore de nous aidez à faire notre plateforme comme product-hunt/reddi
 + vous pourrez utiliser un framwork  tel que __*bootstrap*__
 
 ##  Règles:
-+ l'application devra être *reponsive* (donc s'adapter à toutes les résolutions)
++ l'application devra être *responsive* (donc s'adapter à toutes les résolutions)
 + celui-ci aura 10 produits stockés en base de données
 + la possibilité de upvote et downvote
 + mettre des commentaires ( pourquoi pas utiliser Disqus ? ) 
