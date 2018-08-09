@@ -1,22 +1,22 @@
 #### Projet-4 {Product-hunt-like}
-===
+
 Salut les gars! askip' vous êtes des devs et nous avons besoins de votre skill,
 je vous implore de nous aidez à faire notre plateforme comme product-hunt/reddit (upvote/downvote):
+
 ![design](./img/product-hunt.png)
+
 # Instructions:
-+ vous devrez faire le HTML & le CSS
++ vous devrez faire le PHP, HTML & le CSS
 + ainsi que le JS
    	+ vous devrez manipuler les éléments du DOM (le fameux). 
-+ idéalement vous devrer utilisez grunt  et/ou Sass[facultatif]
-+ vous pourrez utiliser un framwork  __*bootstrap*__ ou __*foundation*__
-
-
++ idéalement vous utiliserez SASS en guise de CSS
++ vous pourrez utiliser un framwork  tel que __*bootstrap*__
 
 ##  Règles:
 + l'application devra être *reponsive* (donc s'adapter à toutes les résolutions)
-+ celui-ci aura 10 projets
++ celui-ci aura 10 produits stockés en base de données
 + la possibilité de upvote et downvote
-+ mettre des commentaires
++ mettre des commentaires ( pourquoi pas utiliser Disqus ? ) 
 + lancer une modal de la carte lors du click
 + vous pouvez allez plus loins si vous le souhaitez.
 
