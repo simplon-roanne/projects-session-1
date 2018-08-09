@@ -3,14 +3,14 @@
 Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suivant :
 ![Design](./img/design_projet-1.png)
 # Instructions:
-+ vous devrez faire le HTML & le CSS
++ vous devrez faire ce projet en PHP, HTML & CSS
 + ainsi que le JS
    	+ vous devrez manipuler les éléments du DOM (le fameux). 
 + idéalement vous devrer utilisez grunt  et/ou Sass[facultatif]
-+ vous pourrez utiliser un framwork  __*bootstrap*__ ou __*foundation*__
++ vous devriez utiliser un framwork CSS tel que  __*bootstrap*__
 
 ##  Règles:
-+ le quizz devra être *reponsive* (donc s'adapter à toutes les résolutions)
++ le quizz devra être *responsive* (donc s'adapter à toutes les résolutions)
 ++ Celui-ci aura 10 questions, stockées en base de données pour pouvoir être modifiés facilement plus tard
 + Dans le cas d'une mauvaise réponse, la case devient rouge.
 + Dans le cas d'une bonne réponse la case devient verte.
