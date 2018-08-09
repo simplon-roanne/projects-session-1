@@ -7,7 +7,7 @@ Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suiv
 + vous devrez faire ce projet en PHP, HTML & CSS
 + ainsi que le JS
    	+ vous devrez manipuler les éléments du DOM (le fameux). 
-+ idéalement vous devrer utilisez grunt  et/ou Sass[facultatif]
++ idéalement vous utiliserez SASS en guise de CSS
 + vous devriez utiliser un framwork CSS tel que  __*bootstrap*__
 
 ##  Règles:
