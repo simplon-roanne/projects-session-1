@@ -1,6 +1,7 @@
 #### Projet-1 {Qui-Quizz}
-===
+
 Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suivant :
+
 ![Design](./img/design_projet-1.png)
 # Instructions:
 + vous devrez faire ce projet en PHP, HTML & CSS
