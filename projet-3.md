@@ -2,7 +2,7 @@
 
 Votre mission sera de faire un lecteur audio web style (deezer/spotify):
 
-![design](./img/lecteur.png)
+![design](https://amazingaudioplayer.com/wp-content/uploads/2013/09/audioplayerwithplaylist.png)
 
 # Instructions:
 + vous devrez faire le PHP, HTML & le CSS
