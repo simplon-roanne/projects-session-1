@@ -1,4 +1,4 @@
-# Projet de fin d'étape Promo 4 - Montreuil
+# Projet de fin d'étape d'Introduction
 
 * [Projet-1 {Qui-Quizz}](https://github.com/simplon-roanne/projects-session-1/blob/master/projet-1.md)
 * [Projet-2 {Instagram-like}](https://github.com/simplon-roanne/projects-session-1/blob/master/projet-2.md)
