@@ -1,6 +1,6 @@
 #### Projet-3 {Deezer or Spotify}
 
-Votre mission qui ne peut être decliner sera de faire un lecteur audio web style (deezer/spotify):
+Votre mission sera de faire un lecteur audio web style (deezer/spotify):
 
 ![design](./img/lecteur.png)
 
