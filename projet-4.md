@@ -19,7 +19,7 @@ je vous implore de nous aidez à faire notre plateforme comme product-hunt/reddi
 + On doit pouvoir upvote et downvote un produit
 + Les produits qui ont le plus de upvote apparaissent en haut
 + On peut naviguer dans les produits par catégorie
-+ mettre des commentaires ( pourquoi pas utiliser Disqus ? ) 
++ On peut déposer un commentaire sur un produit et voir tous les commentaires
 + lancer une modal de la carte lors du click
 + vous pouvez allez plus loins si vous le souhaitez.
 
