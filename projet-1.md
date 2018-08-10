@@ -1,6 +1,6 @@
 #### Projet-1 {Qui-Quizz}
 
-Votre mission si vous l'acceptez  est de créer un quizz. Voila un concept graphique :
+Votre mission si vous l'acceptez  est de créer un quizz. Voila un concept graphique. Nous attendons de vous une meilleure proposition.
 
 ![Design](./img/design_projet-1.png)
 # Instructions:
