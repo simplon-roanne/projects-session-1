@@ -16,9 +16,9 @@ Votre mission si vous l'acceptez (vous n'avez pas vraiment le choix enfait) est 
 ##  Règles:
 + Votre application devra être *responsive* (donc s'adapter à toutes les résolutions)
 + celui-ci aura 15 photos stockées en base de données
-+ la possibilité de click pour voir le profil (une modal)
-+ la photo du propriétaire doit être ronde. 
-+ quand on click sur une photo :
++ Lorsqu'on clique sur un nom, le profil de l'auteur apparaît dans une popup ( modal )
+++ la photo du propriétaire doit être ronde. 
++ Lorsqu'on click sur une photo :
 	+ accès à la photo et les commentaires
 + on peut `liker`une photo.
 + on peut laisser des commentaires ( pourquoi pas utiliser Disqus ? ) 
