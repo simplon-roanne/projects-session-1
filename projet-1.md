@@ -16,6 +16,8 @@ Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suiv
 + Dans le cas d'une mauvaise réponse, la case devient rouge.
 + Dans le cas d'une bonne réponse la case devient verte.
 + Dans le cas ou nous revenons sur une question précedente et que nous avions validé une réponse alors celle-ci est toujours soit verte, soit rouge. on ne peut pas modifier sa réponse avant de finir le quizz complètement.
++ Certaines questions du quizz sont pondérées et ont plus de poids que d'autres dans le calcul du score final.
++ Lorsque le quizz est terminé, le résultat s'affiche sous forme de score final. Un graphique affiche le nombre de perdants et le nombre de gagnants.
 + Il n'y aura qu'__un dépôt git__
 
 > Que la force et internet soit avec vous.
